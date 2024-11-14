@@ -50,7 +50,7 @@ const AboutSection = (props) => {
       <h1 className="text-4xl md:text-6xl font-extrabold leading-snug mt-8 md:mt-0">
         Hi, I'm
         <br />
-        <span className="bg-white px-1 italic">Wawa Sensei</span>
+        <span className="px-1 italic">BLACKWIDOW</span>
       </h1>
       <motion.p
         className="text-lg text-gray-600 mt-4"
@@ -67,10 +67,11 @@ const AboutSection = (props) => {
           delay: 1.5,
         }}
       >
-        I make YouTube videos to help developers
+        Hello, im Karans, founder of BLackwidowtech.
         <br />
-        learn how to build 3D apps
+        im a passionate game developer on Roblox and Fivem
       </motion.p>
+      <a href="https://t.me/lassete">
       <motion.button
         onClick={() => setSection(3)}
         className={`bg-indigo-600 text-white py-4 px-8 
@@ -90,44 +91,57 @@ const AboutSection = (props) => {
       >
         Contact me
       </motion.button>
+      </a>
     </Section>
   );
 };
 
 const skills = [
   {
-    title: "Threejs / React Three Fiber",
-    level: 80,
+    title: "SCRIPT DEVELOPMENT",
+    level: 100,
   },
   {
-    title: "React / React Native",
+    title: "MAP BUILDER",
+    level: 100,
+  },
+  {
+    title: "ROBLOX",
     level: 90,
   },
   {
-    title: "Nodejs",
+    title: "UI/UX DESIGN",
+    level: 100,
+  },
+  {
+    title: "GAME DEVELOPMENT",
     level: 90,
   },
   {
-    title: "Typescript",
-    level: 60,
+    title: "CHATBOT DEVELOPMENT",
+    level: 100,
   },
   {
-    title: "3D Modeling",
-    level: 40,
+    title: "LUA ",
+    level: 95,
+  },
+  {
+    title: "FIVEM ",
+    level: 90,
   },
 ];
 const languages = [
   {
     title: "🇫🇷 French",
-    level: 100,
+    level: 50,
   },
   {
     title: "🇺🇸 English",
-    level: 80,
+    level: 100,
   },
   {
     title: "🇯🇵 Japanese",
-    level: 20,
+    level: 50,
   },
 ];
 

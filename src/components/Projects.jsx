@@ -8,34 +8,34 @@ import { useEffect, useRef } from "react";
 
 export const projects = [
   {
-    title: "Wawatmos",
-    url: "https://r3f-wawatmos-final.vercel.app/",
+    title: "CHATBOT",
+    url: "https://docs.google.com/presentation/d/17wO0OWtegtLq3Q0CnxPM8SqcuujmRkd4ozEtvI2LYlE/edit?usp=sharing",
     image: "projects/wawatmos.jpg",
-    description: "Recreating the Atmos Awwwards website with React Three Fiber",
+    description: "In today's digital world, businesses increasingly turn to chatbot for enhanced customer interaction 24/7 support",
   },
   {
-    title: "Portfolio Baking",
-    url: "https://www.youtube.com/watch?v=YkHqpqJgLKw",
+    title: "FIVEM",
+    url: "https://docs.google.com/presentation/d/17Hc2WrewF6VuEAD7061DpjFG0hqPS4IsyJNb24Uqr9U/edit?usp=sharing",
     image: "projects/baking.jpg",
-    description: "Learn how to bake a 3D model with Blender and use it in r3f",
+    description: "i specialize in developing and enhancing FiveM servers that bring Grand Theft Auto V to life in entirely new ways",
   },
   {
-    title: "3D Avatar",
-    url: "https://www.youtube.com/watch?v=pGMKIyALcK0",
+    title: "GAME DEV",
+    url: "https://docs.google.com/presentation/d/1GERa-C3jmL37WzKME4bFLfvaiCkuFmBDxDo58VzQH3Y/edit?usp=sharing",
     image: "projects/avatar.jpg",
-    description: "Learn how to use ReadyPlayerMe to create a 3D avatar",
+    description: "Bringing idea to life through engaging and interactive experience.",
   },
   {
-    title: "Kanagame",
-    url: "https://www.youtube.com/watch?v=zwNF1-lsia8",
+    title: "ROBLOX GAME",
+    url: "htps://docs.google.com/presentation/d/10zVBBoTUsCfZ2jxdnA3Se7y1S1QSiriixp0qfJhZ4i0/edit?usp=sharing",
     image: "projects/kanagame.jpg",
-    description: "Use React Three Fiber to create a 3D game",
+    description: "As a roblox game developer, i bring imaginative worlds and engaging gameplay to life",
   },
   {
-    title: "Loader",
-    url: "https://www.youtube.com/watch?v=L12wIvuZTOY",
+    title: "CRASH GAME",
+    url: "https://docs.google.com/presentation/d/1tnkiqEItgyifU64iTRtWL9p8AAgW2Jvxe1KFuaW7KX0/edit?usp=sharing",
     image: "projects/loader.jpg",
-    description: "Create a loading screen for your r3f projects",
+    description: "Whether you are looking to lauch a crash game as a standalone or integration it within a larger platform.",
   },
 ];
 
