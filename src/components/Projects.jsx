@@ -27,7 +27,7 @@ export const projects = [
   },
   {
     title: "ROBLOX GAME",
-    url: "htps://docs.google.com/presentation/d/10zVBBoTUsCfZ2jxdnA3Se7y1S1QSiriixp0qfJhZ4i0/edit?usp=sharing",
+    url: "https://docs.google.com/presentation/d/10zVBBoTUsCfZ2jxdnA3Se7y1S1QSiriixp0qfJhZ4i0/edit?usp=sharing",
     image: "projects/kanagame.jpg",
     description: "As a roblox game developer, i bring imaginative worlds and engaging gameplay to life",
   },
